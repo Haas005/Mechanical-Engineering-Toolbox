@@ -1,4 +1,4 @@
-# Mechanical Engineering Tools
+# Mechanical Engineering Toolbox
 
 A collection of Python tools and simulations built alongside my mechanical engineering coursework, currently dynamics and solid mechanics. The goal is to use code to check hand calculations, explore how systems behave, and build intuition for the underlying mechanics.
 
@@ -36,7 +36,7 @@ The app opens in your browser at http://localhost:8501. Streamlit apps must be l
 ## Repository layout
 
 ```
-Mechanical-Engineering-Tools/
+Mechanical-Engineering-Toolbox/
 ├── README.md              this overview
 └── beam_calc/
     ├── app.py             Streamlit interface
