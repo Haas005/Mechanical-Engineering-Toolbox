@@ -1,0 +1,7 @@
+streamlit
+numpy
+scipy
+pandas
+plotly
+# only needed to run test_pendulum_solver.py (independent SymPy derivation):
+sympy
